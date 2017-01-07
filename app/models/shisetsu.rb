@@ -1,0 +1,2 @@
+class Shisetsu < ApplicationRecord
+end
